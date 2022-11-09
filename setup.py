@@ -4,7 +4,7 @@ import setuptools
 # Function that takes several arguments. It assigns these values to our package.
 setuptools.setup(
     # Distribution name the package. Name must be unique so adding your username at the end is common.
-    name="ca_scribner_example_package",
+    name="ca_scribner_example_package2",
     # Version number of your package. Semantic versioning is commonly used.
     version="0.0.1",
     # Author name.
